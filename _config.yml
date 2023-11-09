@@ -33,6 +33,9 @@ url: "https://mickymkumar.github.io/bookshelf/" # the base hostname & protocol f
 theme: minima
 plugins:
   - jekyll-feed
+collections: 
+    my_collection: 
+        output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
